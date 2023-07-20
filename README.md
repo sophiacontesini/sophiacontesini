@@ -53,7 +53,5 @@ I'm very proud of my story and I'm very curious to know about the next chapters 
 
   
 ##
-
-  ![Snake animation](https://github.com/sophiacontesini/sophiacontesini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
