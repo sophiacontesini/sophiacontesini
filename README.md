@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Sophia+Contesini;Be+Welcome!+:%29)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+good+to+see+you+here;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 My name is Sophia Contesini, I'm 28 years old and I live in Mogi Mirim - SP - Brazil.
 I fell in love with technology and decided to go through a career transition and today I am a Full Stack Web Developer by Trybe in 2022.
